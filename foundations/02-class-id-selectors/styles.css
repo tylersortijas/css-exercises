@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+.classmates {
+    background: salmon;
+}
+
+#og-id {
+    color: blue;
+    font-size: 3rem;
+}
+
+.cooler-class {
+    font-size: 2rem;
+}
+
+#fake-id {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 2rem;
+}
